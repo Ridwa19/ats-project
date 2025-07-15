@@ -69,34 +69,8 @@ README.md
 
 - [Add your Loom/Google Drive demo link here]
 
----
 
-## How to Deploy to GitHub
-
-1. **Initialize git (if not already):**
-   ```bash
-   git init
-   ```
-
-2. **Add your remote:**
-   ```bash
-   git remote add origin https://github.com/Ridwa19/ats-project.git
-   ```
-
-3. **Add all files and commit:**
-   ```bash
-   git add .
-   git commit -m "Initial commit: Full Stack ATS Project"
-   ```
-
-4. **Push to GitHub:**
-   ```bash
-   git branch -M main
-   git push -u origin main
-   ```
-
----
 
 ## Author
 
-- [Your Name] 
+- Ridwaan adan ali 
